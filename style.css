@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.flexbox{
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    margin: 0px;
+}
+.item{
+    display: block;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    padding: 0px 10px;
+}
+.item-1{
+    width: 33.33%;
+}
+.item-2{
+    width: 66.66%;
+}
+
+
+.content{
+    background-color: #9399e0;
+    border: 2px solid black;
+    padding: 16px;
+    margin: 10px;
+
+}
+
